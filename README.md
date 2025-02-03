@@ -1,2 +1,2 @@
-# Cimbios.Binaries
-ngpkg binary releases
+# CimBios.Binaries
+nupkg binary releases
